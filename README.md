@@ -24,9 +24,11 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 <br>
 I'm always looking for new opportunities to leverage my skills and experience to make a positive impact.
+* 🌍  I'm based in France
+* 🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/)
+* ✉️  You can contact me at [ameykpathare@gamil.com](mailto:ameykpathare@gamil.com)
 
-
-## Internship Expereince
+## Internship Experience
 | Company  | The Sparks Foundation |
 |---------|----------------------------------|
 | Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. |
@@ -34,3 +36,5 @@ I'm always looking for new opportunities to leverage my skills and experience to
 | Company  | iNeuron Intelligence Pvt. limited |
 |---------|----------------------------------|
 | Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
+
+
