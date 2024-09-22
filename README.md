@@ -83,7 +83,7 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 <br>
 
 
-| Company  | Role:&nbsp;&nbsp;Business Analyst  |
+| Company  | <div align="center">Role:&nbsp;&nbsp;Business Analyst</div>  |
 | --| -- |
 |  The Sparks Foundation | 1. Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. <br> 2. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. <br> 3. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. <br> 4. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. <br> 5. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. <br> |
 |   | <div align="center">Role:&nbsp;&nbsp;Data Analyst</div> |
