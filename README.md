@@ -47,9 +47,9 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 </a>
 
 ## Skills
-<p>
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-</p>
+
+  ![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ## Internship Experience
 | Company  | The Sparks Foundation |
