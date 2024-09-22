@@ -8,14 +8,14 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 <br> 
 
-### Expertise
+### My Expertise includes
 
 * Data cleaning and wrangling
 * Data analysis and visualization
 * Statistical modeling and forecasting
 * Report writing and communication
 
-### Particularly Skilled
+### Particularly Skilled at
 
 * Identifying and communicating actionable insights
 * Building and deploying data-driven solutions
