@@ -28,8 +28,8 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 ## Socials
 <ul>
   <li>🌍  I'm based in France</li>
-  <li>🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/) </li>
-  <li>✉️  You can email me at [ameykpathare@gamil.com](mailto:ameykpathare@gamil.com) </li>
+  <li>🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/)</li>
+  <li>✉️  You can email me at [ameykpathare@gamil.com](mailto:ameykpathare@gamil.com)</li>
 </ul>
 
 <br>
