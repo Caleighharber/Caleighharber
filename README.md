@@ -1,6 +1,6 @@
 ![Background](https://github.com/user-attachments/assets/dde54d7d-9f34-421b-a6c0-172016777c2e)
 
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amey Pathare
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amey Pathare
 ====================================================================================================================================
 
 Data Analyst | BI Developer
@@ -50,6 +50,7 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
 <br>
 
 ## Skills
