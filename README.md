@@ -43,4 +43,6 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 |---------|----------------------------------|
 | Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
 
+## My Github repos
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
