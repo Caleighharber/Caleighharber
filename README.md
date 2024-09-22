@@ -23,10 +23,11 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 * Staying up-to-date with the latest data trends and technologies
 
 <br>
+
 I'm always looking for new opportunities to leverage my skills and experience to make a positive impact.
-* 🌍  I'm based in France
-* 🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/)
-* ✉️  You can contact me at [ameykpathare@gamil.com](mailto:ameykpathare@gamil.com)
+- 🌍  I'm based in France
+- 🖥️  See my portfolio at 
+- ✉️  You can contact me at 
 
 ## Internship Experience
 | Company  | The Sparks Foundation |
