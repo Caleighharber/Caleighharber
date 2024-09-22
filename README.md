@@ -26,6 +26,7 @@ I'm always looking for new opportunities to leverage my skills and experience to
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/)
 * ✉️  You can contact me at [ameykpathare@gamil.com](mailto:ameykpathare@gamil.com)
+<br>
 
 ## Internship Expereince
 | Company  | The Sparks Foundation |
