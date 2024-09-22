@@ -35,7 +35,8 @@ I'm always looking for new opportunities to leverage my skills and experience to
   <li>Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. </li> 
   <li>Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs</li>. 
   <li>Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. </li> 
-  <li>Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit</li> |
+  <li>Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit</li> 
+</ul> |
 
 | Company  | iNeuron Intelligence Pvt. limited |
 |---------|----------------------------------|
