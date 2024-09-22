@@ -29,9 +29,14 @@ I'm always looking for new opportunities to leverage my skills and experience to
 
 ## Internship Expereince
 | Company  | The Sparks Foundation |
-|:---------:|:----------------------------------:|
-| Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit |
+|---------|----------------------------------|
+| Business Analyst | 
+<ul>
+  <li>Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. </li> 
+  <li>Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs</li>. 
+  <li>Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. </li> 
+  <li>Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit</li> |
 
 | Company  | iNeuron Intelligence Pvt. limited |
-|:---------:|:----------------------------------:|
+|---------|----------------------------------|
 | Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
