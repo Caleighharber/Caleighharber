@@ -69,7 +69,8 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 ## Internship Experience
 | Company  | The Sparks Foundation |
 |---------|----------------------------------|
-| Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. |
+| Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. <br>
+Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. |
 
 | Company  | iNeuron Intelligence Pvt. limited |
 |---------|----------------------------------|
