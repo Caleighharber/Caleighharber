@@ -77,9 +77,14 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about some data quotes before you go?
 Data are just summaries of thousands of stories — tell a few of those stories to help make the data meaningful.
 
 > ~ Dan Heath
+
+Information is the oil of the 21st century, and analytics is the combustion engine
+
+> ~ Peter Sondergaard
+
 
 
