@@ -21,6 +21,7 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 * Collaborating effectively with cross-functional teams
 * Staying up-to-date with the latest data trends and technologies
   
+<br>
 
 ## Socials
 <ul>
