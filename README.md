@@ -1,7 +1,7 @@
 ![Background](https://github.com/user-attachments/assets/dde54d7d-9f34-421b-a6c0-172016777c2e)
 
 
-<h1>Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Amey Pathare</h1>
+Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Amey Pathare
 ====================================================================================================================================
 
 Data Analyst | BI Developer
