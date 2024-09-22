@@ -34,15 +34,6 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 <br>
 
-## Internship Experience
-| Company  | The Sparks Foundation |
-|---------|----------------------------------|
-| Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. |
-
-| Company  | iNeuron Intelligence Pvt. limited |
-|---------|----------------------------------|
-| Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
-
 ## My Github repos
 
 <a href="https://github.com/ameypathare/shopclues_sql_queries">
@@ -54,4 +45,20 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 <a href="https://github.com/ameypathare/mass_shooting_sql_queries">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+## Skills
+<p>
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</p>
+
+## Internship Experience
+| Company  | The Sparks Foundation |
+|---------|----------------------------------|
+| Business Analyst | Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. |
+
+| Company  | iNeuron Intelligence Pvt. limited |
+|---------|----------------------------------|
+| Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
+
+
 
