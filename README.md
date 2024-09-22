@@ -46,6 +46,8 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+
 ## Skills
 
   ![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -73,5 +75,10 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 |---------|----------------------------------|
 | Data Analyst | Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
 
+<br>
+## 📣 How about an Office quote before you go?
+Data are just summaries of thousands of stories — tell a few of those stories to help make the data meaningful.
+
+> - Dan Heath
 
 
