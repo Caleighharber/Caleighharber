@@ -28,7 +28,7 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 ## Socials
 <ul>
   <li>🌍  I'm based in France</li>
-  <li>🖥️  See my portfolio at <a href="amey-portfolio.super.site/" target="_blank"Amey's Portfolio</a></li>
+  <li>🖥️  See my portfolio at <a href="amey-portfolio.super.site/" target="_blank">Amey's Portfolio</a></li>
   <li>✉️  You can email me at <a href="mailto:abc@gmail.com">ameykpathare@gmail.com</a></li>
 </ul>
 
