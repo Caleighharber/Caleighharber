@@ -7,7 +7,6 @@ Data Analyst | BI Developer
 I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels. 
 
 <br> 
-
 ### My Expertise includes
 
 * Data cleaning and wrangling
@@ -22,7 +21,6 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 * Collaborating effectively with cross-functional teams
 * Staying up-to-date with the latest data trends and technologies
 
-<br>
 
 I'm always looking for new opportunities to leverage my skills and experience to make a positive impact.
 - 🌍  I'm based in France
