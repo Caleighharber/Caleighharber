@@ -7,11 +7,12 @@
     <td width="60%">
       I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
     </td>
-    <td width="40%">
-      <video width="100%" controls>
-        <source src="https://github.com/Caleighharber/Caleighharber/raw/main/original.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+    <td width="40%" style="text-align:center">
+      <a href="https://github.com/Caleighharber/Caleighharber/raw/main/original.mp4" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/000000/video.png" alt="Watch Video" width="150">
+        <br>
+        <small>Click to watch my intro video</small>
+      </a>
     </td>
   </tr>
 </table>
