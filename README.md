@@ -5,27 +5,17 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
+      [Your introduction text here...]
     </td>
     <td width="40%" valign="top">
-      ![original](https://github.com/user-attachments/assets/406cb539-4007-41d5-baa8-b0e120cdf058)
+      <img src="https://raw.githubusercontent.com/Caleighharber/Caleighharber/main/original.gif" 
+           alt="My Introduction GIF"
+           style="max-width:100%; border-radius:8px; border: 1px solid #eee;">
     </td>
   </tr>
 </table>
 
-### My Expertise includes
-
-* Data cleaning and wrangling
-* Data analysis and visualization
-* Statistical modeling and forecasting
-* Report writing and communication
-
-### I'm Particularly Skilled at
-
-* Identifying and communicating actionable insights
-* Building and deploying data-driven solutions
-* Collaborating effectively with cross-functional teams
-* Staying up-to-date with the latest data trends and technologies
+[Rest of your content...]
 
 
 <br>
