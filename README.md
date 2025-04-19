@@ -2,18 +2,14 @@
 
 ## Data Analyst | Engineer | BI Developer
 
-<table style="border:none; border-collapse: collapse;">
-  <tr style="border:none;">
-    <td width="60%" valign="top" style="border:none; padding-right: 20px;">
-      I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
-    </td>
-    <td width="40%" valign="top" style="border:none;">
-      <img src="https://raw.githubusercontent.com/Caleighharber/Caleighharber/main/original.gif" 
-           alt="My Introduction GIF"
-           style="max-width:100%; border-radius:8px;">
-    </td>
-  </tr>
-</table>
+<div style="overflow: auto; margin-bottom: 30px;">
+  <img src="https://github.com/user-attachments/assets/18e629d7-227b-420d-847b-e1fbd740b2c6" 
+       alt="Office Environment" 
+       width="300"
+       style="float: right; margin-left: 25px; border-radius: 8px;">
+
+  I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
+</div>
 
 ### My Expertise includes
 
@@ -28,6 +24,7 @@
 * Building and deploying data-driven solutions
 * Collaborating effectively with cross-functional teams
 * Staying up-to-date with the latest data trends and technologies
+
 
 
 <br>
