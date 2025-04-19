@@ -1,12 +1,54 @@
 
-Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Amey Pathare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Caleigh Harber
 ====================================================================================================================================
 
 Data Analyst | Engineer | BI Developer
 ---------------------------
 
-I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels. 
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
+<div style="flex: 1; min-width: 300px;">
+
+I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
+
+</div>
+
+<div style="flex: 1; min-width: 300px; text-align: center;">
+
+<!-- Optional: clickable image thumbnail -->
+<a href="./videos/intro.mp4">
+  <img src="./assets/thumbnail.png" alt="Click to watch video" width="100%" style="border-radius: 10px;" />
+</a>
+<br>
+<a href="./videos/intro.mp4"><strong>🎥 Click here to watch my intro video</strong></a>
+
+</div>
+</div>
 
 ### My Expertise includes
 
@@ -21,8 +63,9 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 * Building and deploying data-driven solutions
 * Collaborating effectively with cross-functional teams
 * Staying up-to-date with the latest data trends and technologies
-  
-<br>
+
+<br> 
+
 
 ## Socials
 <ul>
