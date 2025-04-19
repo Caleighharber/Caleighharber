@@ -16,7 +16,7 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 <!-- Embedded looping video (hosted in your repo root or videos folder) -->
 <video width="100%" autoplay muted loop>
-  <source src="./original.mp4" type="video/mp4">
+  <source src="https://github.com/Caleighharber/Caleighharber/blob/main/original.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
