@@ -35,7 +35,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <p align="center">
   <a href="https://github.com/ameypathare/rice_image_classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-Rice_Image_Classification-4CAF50?logo=python&logoColor=white" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <p align="center">
   <a href="https://github.com/ameypathare/hotel-review-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-review-prediction&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/NLP-Hotel_Review_Prediction-2196F3?logo=python&logoColor=white" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <p align="center">
   <a href="https://github.com/ameypathare/shopclues_sql_queries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/SQL-ShopClues_SQL_Queries-00758F?logo=postgresql&logoColor=white" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <p align="center">
   <a href="https://github.com/ameypathare/mass_shooting_sql_queries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/SQL-Mass_Shooting_SQL_Queries-00758F?logo=postgresql&logoColor=white" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <p align="center">
   <a href="https://github.com/ameypathare/bike_sharing_code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=bike_sharing_code&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Data%20Analysis-Bike_Sharing_Analysis-FF9800?logo=python&logoColor=white" />
   </a>
 </p>
 
