@@ -33,33 +33,43 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 ## My Portfolio repositories
 
-<a href="https://github.com/ameypathare/rice_image_classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification" />
-</a>
+<p align="center">
+  <a href="https://github.com/ameypathare/rice_image_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://github.com/ameypathare/hotel-review-prediction">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-review-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <a href="https://github.com/ameypathare/hotel-review-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-review-prediction&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://github.com/ameypathare/shopclues_sql_queries">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <a href="https://github.com/ameypathare/shopclues_sql_queries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://github.com/ameypathare/mass_shooting_sql_queries">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <a href="https://github.com/ameypathare/mass_shooting_sql_queries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
-<a href="https://github.com/ameypathare/bike_sharing_code">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=bike_sharing_code&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <a href="https://github.com/ameypathare/bike_sharing_code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=bike_sharing_code&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
